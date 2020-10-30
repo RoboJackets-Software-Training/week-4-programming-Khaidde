@@ -1,0 +1,2 @@
+set(week_4_exercises_MESSAGE_FILES "/home/vagrant/Documents/RobocupSoftwareTraining/week-4-programming-Khaidde/week_4_exercises/src/msgs/msg/CustomMessage.msg")
+set(week_4_exercises_SERVICE_FILES "")
