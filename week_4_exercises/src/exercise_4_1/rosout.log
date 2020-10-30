@@ -1,0 +1,11 @@
+
+
+1604083913.923354002  Node Startup
+1604084035.553559772 INFO /your_node [/home/vagrant/Documents/RobocupSoftwareTraining/week-4-programming-Khaidde/week_4_exercises/src/exercise_4_1/your_node.cpp:10(String))] [topics: /rosout] wrestling
+1604084036.053505965 INFO /your_node [/home/vagrant/Documents/RobocupSoftwareTraining/week-4-programming-Khaidde/week_4_exercises/src/exercise_4_1/your_node.cpp:10(String))] [topics: /rosout] navigation
+1604084036.554301094 INFO /your_node [/home/vagrant/Documents/RobocupSoftwareTraining/week-4-programming-Khaidde/week_4_exercises/src/exercise_4_1/your_node.cpp:10(String))] [topics: /rosout] soccer
+1604084037.055891103 INFO /your_node [/home/vagrant/Documents/RobocupSoftwareTraining/week-4-programming-Khaidde/week_4_exercises/src/exercise_4_1/your_node.cpp:10(String))] [topics: /rosout] racecar
+1604084037.554959684 INFO /your_node [/home/vagrant/Documents/RobocupSoftwareTraining/week-4-programming-Khaidde/week_4_exercises/src/exercise_4_1/your_node.cpp:10(String))] [topics: /rosout] computer
+1604084038.055105262 INFO /your_node [/home/vagrant/Documents/RobocupSoftwareTraining/week-4-programming-Khaidde/week_4_exercises/src/exercise_4_1/your_node.cpp:10(String))] [topics: /rosout] bee
+1604084038.556092321 INFO /your_node [/home/vagrant/Documents/RobocupSoftwareTraining/week-4-programming-Khaidde/week_4_exercises/src/exercise_4_1/your_node.cpp:10(String))] [topics: /rosout] 
+1604084039.056686173 INFO /your_node [/home/vagrant/Documents/RobocupSoftwareTraining/week-4-programming-Khaidde/week_4_exercises/src/exercise_4_1/your_node.cpp:10(String))] [topics: /rosout] testing testing 123
